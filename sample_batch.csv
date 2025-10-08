@@ -1,0 +1,6 @@
+age,total_claims,num_conditions,num_meds,num_encounters,gender,race
+45,10,3,2,5,Male,White
+60,20,4,5,12,Female,Black
+35,3,1,1,2,Male,Asian
+50,15,2,3,8,Female,Other
+70,25,5,6,15,Male,White
