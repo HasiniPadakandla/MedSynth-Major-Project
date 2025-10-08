@@ -66,4 +66,19 @@ The project is deployed as a **Streamlit web application**, enabling users to:
 - Integration with **Electronic Health Records (EHR)** for real-time analysis.  
 - Incorporate **deep learning models** for enhanced prediction accuracy.  
 - Add **Explainable AI (XAI)** modules for better interpretability.  
-- Support **IoT-based real-time health monitoring**.  
+- Support **IoT-based real-time health monitoring**.
+
+---
+
+## 🏢 Submitted To
+**Global Next Consulting India Pvt. Ltd.**
+
+---
+
+### 📄 License
+This project is developed for academic and research purposes. Redistribution and modification are allowed with proper attribution.
+
+---
+
+### 💬 Summary
+**MEDSYNTH** combines machine learning, synthetic data generation, and interactive visualization to build a robust, privacy-safe, and interpretable healthcare risk prediction system.
